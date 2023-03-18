@@ -1,0 +1,2 @@
+file:src/test/resources/Features/TC2_SearchHotel.feature:29
+file:src/test/resources/Features/TC5_CancelBooking.feature:34
